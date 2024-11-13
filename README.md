@@ -1,9 +1,7 @@
 # Premier League Dashboard
 
-Welcome to the **Live Premier League Power BI Dashboard**! This dashboard provides real-time insights into Premier League statistics, helping you explore and analyse match data with a single click.
-
 ## Dashboard Access
-To view the dashboard, click the link below:  
+To view the **Live Premier League Power BI Dashboard**, click the link below:  
 [Live Premier League Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDA2YTFiNWYtNzFlYy00MjFlLWJlNGYtM2MyMDBjYTQ1NjcwIiwidCI6IjA0NjZlNDc4LWQ5MjMtNDliOS1hZGYzLWRiYzI0MTVkOGEwZiJ9)
 
 ## Features
