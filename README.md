@@ -4,7 +4,7 @@
 To view the **Live Premier League Power BI Dashboard**, click the link below:  
 [Live Premier League Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDA2YTFiNWYtNzFlYy00MjFlLWJlNGYtM2MyMDBjYTQ1NjcwIiwidCI6IjA0NjZlNDc4LWQ5MjMtNDliOS1hZGYzLWRiYzI0MTVkOGEwZiJ9)
 
-## Features
+## Key Features
 
 - **Historical League Tables**: View the Premier League table for every season since its inception in 1992. Select specific points in time—like Christmas Day—to see how the league table appeared during key moments of the season.
 
