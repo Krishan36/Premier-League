@@ -1,4 +1,5 @@
 # Premier League Dashboard
+This report was developed using **Microsoft Fabric** by **Krishan Patel**.
 
 ## Dashboard Access
 To view the **Live Premier League Dashboard** in **Power BI**, click the link below:  
