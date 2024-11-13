@@ -18,4 +18,4 @@ To view the **Live Premier League Dashboard** in **Power BI**, click the link be
 - **Performance Predictions**: Assess a team's likelihood of scoring or conceding against specific opponents, both at home and away, based on historical performance.
 
 ## Restricted Access
-Power BI files, Fabric Notebook scripts, and SQL queries in this repository are restricted and not available for public access. If you would like to request access, please reach out via [LinkedIn](https://www.linkedin.com/in/krishanpatelpbi/).
+Please note that certain Power BI files, Fabric Notebook scripts, and SQL queries related to this project are restricted and cannot be accessed. If you would like to request access, please reach out via [LinkedIn](https://www.linkedin.com/in/krishanpatelpbi/).
