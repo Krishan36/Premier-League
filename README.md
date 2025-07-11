@@ -1,5 +1,4 @@
 # Premier League Dashboard
-This dashboard was developed by **Krishan Patel**.
 
 ## Dashboard Access
 To view the **Live Premier League Dashboard** in **Power BI**, please click the link below:  
