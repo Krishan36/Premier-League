@@ -16,6 +16,3 @@ To view the **Live Premier League Dashboard** in **Power BI**, please click the 
 - **In-Depth Match Statistics**: Delve into detailed match statistics, offering comprehensive insights into team performance and match dynamics across the season.
 
 - **Performance Predictions**: Assess a team's likelihood of scoring or conceding against specific opponents, both at home and away, based on historical performance.
-
-## Intellectual Property Notice
-Please note that some Power BI files, Fabric Notebook scripts, and SQL queries associated with this project are not included in the repository to protect the intellectual property. If you would like to request access, please reach out via [LinkedIn](https://www.linkedin.com/in/krishanpatelpbi/).
